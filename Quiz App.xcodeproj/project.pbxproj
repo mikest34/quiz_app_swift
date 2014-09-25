@@ -14,6 +14,8 @@
 		4B196C8219D44E3000E95945 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4B196C8019D44E3000E95945 /* LaunchScreen.xib */; };
 		4B196C8E19D44E3000E95945 /* Quiz_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B196C8D19D44E3000E95945 /* Quiz_AppTests.swift */; };
 		4B196C9819D46A0E00E95945 /* QuestionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B196C9719D46A0E00E95945 /* QuestionModel.swift */; };
+		4B196C9B19D48DFE00E95945 /* README.rdoc in Resources */ = {isa = PBXBuildFile; fileRef = 4B196C9919D48DFE00E95945 /* README.rdoc */; };
+		4B196C9C19D48DFE00E95945 /* TemplateIcon2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B196C9A19D48DFE00E95945 /* TemplateIcon2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +40,8 @@
 		4B196C8C19D44E3000E95945 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B196C8D19D44E3000E95945 /* Quiz_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz_AppTests.swift; sourceTree = "<group>"; };
 		4B196C9719D46A0E00E95945 /* QuestionModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionModel.swift; sourceTree = "<group>"; };
+		4B196C9919D48DFE00E95945 /* README.rdoc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.rdoc; sourceTree = "<group>"; };
+		4B196C9A19D48DFE00E95945 /* TemplateIcon2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TemplateIcon2x.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 		4B196C6919D44E3000E95945 = {
 			isa = PBXGroup;
 			children = (
+				4B196C9919D48DFE00E95945 /* README.rdoc */,
+				4B196C9A19D48DFE00E95945 /* TemplateIcon2x.png */,
 				4B196C7419D44E3000E95945 /* Quiz App */,
 				4B196C8A19D44E3000E95945 /* Quiz AppTests */,
 				4B196C7319D44E3000E95945 /* Products */,
@@ -195,9 +201,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B196C9C19D48DFE00E95945 /* TemplateIcon2x.png in Resources */,
 				4B196C7D19D44E3000E95945 /* Main.storyboard in Resources */,
 				4B196C8219D44E3000E95945 /* LaunchScreen.xib in Resources */,
 				4B196C7F19D44E3000E95945 /* Images.xcassets in Resources */,
+				4B196C9B19D48DFE00E95945 /* README.rdoc in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

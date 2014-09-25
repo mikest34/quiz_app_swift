@@ -1,0 +1,8 @@
+==A Quiz App
+
+I did this quiz app while loosely following the tutorial at the links below. I didn't think his approach to the Model was too great so I built my own. Also, he didn't have an approach to the game ending (I guess this was a future installment) so I built that in also.
+
+The only thing missing is there is no way to start it over but why would you want to really? I would be deleting this app from my phone ASAP :)
+
+http://swiftapprentice.com/build-a-swift-app-quiz-app-part-1/
+http://swiftapprentice.com/build-a-swift-app-quiz-app-part-2/
