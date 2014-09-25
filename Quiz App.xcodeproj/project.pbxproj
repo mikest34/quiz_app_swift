@@ -13,6 +13,7 @@
 		4B196C7F19D44E3000E95945 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B196C7E19D44E3000E95945 /* Images.xcassets */; };
 		4B196C8219D44E3000E95945 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4B196C8019D44E3000E95945 /* LaunchScreen.xib */; };
 		4B196C8E19D44E3000E95945 /* Quiz_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B196C8D19D44E3000E95945 /* Quiz_AppTests.swift */; };
+		4B196C9819D46A0E00E95945 /* QuestionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B196C9719D46A0E00E95945 /* QuestionModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		4B196C8719D44E3000E95945 /* Quiz AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Quiz AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B196C8C19D44E3000E95945 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B196C8D19D44E3000E95945 /* Quiz_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz_AppTests.swift; sourceTree = "<group>"; };
+		4B196C9719D46A0E00E95945 /* QuestionModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				4B196C7719D44E3000E95945 /* AppDelegate.swift */,
 				4B196C7919D44E3000E95945 /* ViewController.swift */,
+				4B196C9719D46A0E00E95945 /* QuestionModel.swift */,
 				4B196C7B19D44E3000E95945 /* Main.storyboard */,
 				4B196C7E19D44E3000E95945 /* Images.xcassets */,
 				4B196C8019D44E3000E95945 /* LaunchScreen.xib */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B196C9819D46A0E00E95945 /* QuestionModel.swift in Sources */,
 				4B196C7A19D44E3000E95945 /* ViewController.swift in Sources */,
 				4B196C7819D44E3000E95945 /* AppDelegate.swift in Sources */,
 			);
